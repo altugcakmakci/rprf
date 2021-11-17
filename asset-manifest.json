@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rprf/static/css/main.b90952a3.chunk.css",
+    "main.js": "/rprf/static/js/main.64e4911c.chunk.js",
+    "main.js.map": "/rprf/static/js/main.64e4911c.chunk.js.map",
+    "runtime-main.js": "/rprf/static/js/runtime-main.dcccf214.js",
+    "runtime-main.js.map": "/rprf/static/js/runtime-main.dcccf214.js.map",
+    "static/css/2.383c0125.chunk.css": "/rprf/static/css/2.383c0125.chunk.css",
+    "static/js/2.186d7765.chunk.js": "/rprf/static/js/2.186d7765.chunk.js",
+    "static/js/2.186d7765.chunk.js.map": "/rprf/static/js/2.186d7765.chunk.js.map",
+    "index.html": "/rprf/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/rprf/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.b90952a3.chunk.css.map": "/rprf/static/css/main.b90952a3.chunk.css.map",
+    "static/js/2.186d7765.chunk.js.LICENSE.txt": "/rprf/static/js/2.186d7765.chunk.js.LICENSE.txt",
+    "static/media/altug.5962d062.jpg": "/rprf/static/media/altug.5962d062.jpg",
+    "static/media/Portfolio.css": "/rprf/static/media/seamless.986b208b.jpg",
+    "static/media/resume-image.5b3915db.jpeg": "/rprf/static/media/resume-image.5b3915db.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcccf214.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.186d7765.chunk.js",
+    "static/css/main.b90952a3.chunk.css",
+    "static/js/main.64e4911c.chunk.js"
+  ]
+}
